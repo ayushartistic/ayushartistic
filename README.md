@@ -60,7 +60,7 @@ I don’t just “learn randomly” — I follow a structured system:
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushartistic&show_icons=true\&theme=tokyonight)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushartistic&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
